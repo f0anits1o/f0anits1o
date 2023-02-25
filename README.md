@@ -1,9 +1,3 @@
-<!--
-**f0anits1o/f0anits1o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-My first repository
 👋Hi! I'm Avotra from Antananarivo Madagascar.
 <br>
 -🔭 I'm Ms student in Astronomy & Astrophysic at the University of Antananarivo.
