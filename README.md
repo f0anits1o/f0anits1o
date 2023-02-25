@@ -8,4 +8,4 @@
 <br>
 -👯 So, I want collaborate with anyone who can help to reach my gol.
 <br>
-- 📫 How to reach me: send an e-mail to avotriniaianafidelis@gmail.com
+- 📫 How to reach me: send an e-mail to avotriniainafidelis@gmail.com
