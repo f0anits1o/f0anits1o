@@ -6,8 +6,6 @@ Here are some ideas to get you started:
 My first repository
 👋Hi! I'm Avotra from Antananarivo Madagascar.
 <br>
-
-<br>
 -🔭 I'm Ms student in Astronomy & Astrophysic at the University of Antananarivo.
    ⚡ At the same time I follow a backend course at SAYNA ACADEMY via D'CLIC 2.0 project supported by OIF.
 -😄 I'd like become backend's developer and data expert.
