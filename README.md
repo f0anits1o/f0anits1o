@@ -60,5 +60,5 @@ I’m always open to learning and improving, striving to create tools that are u
 ---
 
 #### **Slogan**
-**"A Deo a Libertate"** 
+**"A Deo a Libertate"** <br>
 🕶️💻 (Republic Of Libertalia) 💻🕶️  
